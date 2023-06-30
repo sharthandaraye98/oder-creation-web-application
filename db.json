@@ -1,0 +1,190 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "username": "user",
+      "password": "user"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "menuItem": "item 1",
+      "price": 300,
+      "quantity": 2
+    },
+    {
+      "id": 2,
+      "menuItem": "item 2",
+      "price": 300,
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "menuItem": "item 3",
+      "price": 300,
+      "quantity": 4
+    }
+  ],
+  "orderList": [
+    {
+      "orderName": "order 1",
+      "customerName": "John",
+      "items": [
+        {
+          "id": 1,
+          "menuItem": "item 1",
+          "price": 300,
+          "quantity": 2
+        },
+        {
+          "id": 2,
+          "menuItem": "item 2",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "menuItem": "item 3",
+          "price": 300,
+          "quantity": 4
+        }
+      ],
+      "createdDate": "2023-06-29T18:27:46.059Z",
+      "id": 1
+    },
+    {
+      "orderName": "order 2",
+      "customerName": "Alice",
+      "items": [
+        {
+          "id": 1,
+          "menuItem": "item 1",
+          "price": 300,
+          "quantity": 2
+        },
+        {
+          "id": 2,
+          "menuItem": "item 2",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "menuItem": "item 3",
+          "price": 300,
+          "quantity": 4
+        }
+      ],
+      "createdDate": "2023-06-29T18:28:48.357Z",
+      "id": 2
+    },
+    {
+      "orderName": "order 3",
+      "customerName": "Tom",
+      "items": [
+        {
+          "id": 1,
+          "menuItem": "item 1",
+          "price": 300,
+          "quantity": 2
+        },
+        {
+          "id": 2,
+          "menuItem": "item 2",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "menuItem": "item 3",
+          "price": 300,
+          "quantity": 4
+        }
+      ],
+      "createdDate": "2023-06-29T18:29:44.925Z",
+      "id": 3
+    },
+    {
+      "orderName": "order 4",
+      "customerName": "Alex",
+      "items": [
+        {
+          "id": 1,
+          "menuItem": "item 1",
+          "price": 300,
+          "quantity": 2
+        },
+        {
+          "id": 2,
+          "menuItem": "item 2",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "menuItem": "item 3",
+          "price": 300,
+          "quantity": 4
+        }
+      ],
+      "createdDate": "2023-06-29T18:42:56.181Z",
+      "id": 4
+    },
+    {
+      "orderName": "order 5",
+      "customerName": "Dean",
+      "items": [
+        {
+          "id": 1,
+          "menuItem": "item 1",
+          "price": 300,
+          "quantity": 2
+        },
+        {
+          "id": 2,
+          "menuItem": "item 2",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "menuItem": "item 3",
+          "price": 300,
+          "quantity": 4
+        }
+      ],
+      "createdDate": "2023-06-29T18:52:05.936Z",
+      "id": 5
+    },
+    {
+      "orderName": "order 6",
+      "customerName": "Stacy",
+      "items": [
+        {
+          "id": 1,
+          "menuItem": "item 1",
+          "price": 300,
+          "quantity": 2
+        },
+        {
+          "id": 2,
+          "menuItem": "item 2",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "menuItem": "item 3",
+          "price": 300,
+          "quantity": 0
+        }
+      ],
+      "createdDate": "2023-06-30T02:32:12.910Z",
+      "id": 6
+    }
+  ]
+}

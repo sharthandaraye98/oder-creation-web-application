@@ -1,0 +1,22 @@
+@media all and (min-width: 480px) {
+  .Login {
+    padding: 60px 0;
+  }
+  .Login h2 {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 320px;
+  }
+  .Login form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+  .Login button {
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 10px;
+    width: 100%;
+    cursor: pointer;
+  }
+}
